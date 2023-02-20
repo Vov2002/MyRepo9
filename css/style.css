@@ -1,0 +1,14 @@
+.el{
+width: 200px;
+height: 200px;
+background-color: black;
+}
+.p{
+    padding: 200px;
+}
+.m{
+    margin: 200px;
+}
+.bc{
+    background-color: red;
+}
